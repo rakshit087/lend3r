@@ -1,6 +1,6 @@
 import { ethers } from "ethers";
 import vaultArtifact from "../artifacts/src/contracts/Vault.sol/Vault.json";
-const vaultAddress = "0x0000000000000000000000000000000000000000";
+const vaultAddress = "0x5F5005a3f180c7EB115C0E06D701d414D85C24B8";
 
 export const Web3Service = {
   connect: async () => {
